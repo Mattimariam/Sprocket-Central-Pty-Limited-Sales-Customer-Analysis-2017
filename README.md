@@ -1,0 +1,2 @@
+# Sprocket-Central-Pty-Limited-Sales-Customer-Analysis-2017
+This dashboard analyzes Sprocket Central Pty Limited’s 2017 sales and customer data, highlighting revenue, profit, product, brand, customer, channel, regional, and industry performance. It identifies key business drivers and opportunities to improve sales, profitability, customer engagement, and support data-driven decisions for sustainable growth.
